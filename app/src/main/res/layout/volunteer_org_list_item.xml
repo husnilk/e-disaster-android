@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="8dp"
+    android:elevation="10dp"
+    app:cardBackgroundColor="@color/white"
+    app:cardCornerRadius="10dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp">
+
+        <TextView
+            android:id="@+id/IdOrgRelawan"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:hint="Id Org Relawan"
+            android:textAlignment="textEnd"
+            android:textColor="#7f7f7f"
+            android:textSize="10sp" />
+
+        <TextView
+            android:id="@+id/NamaOrgRelawan"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginEnd="6dp"
+            android:layout_toStartOf="@+id/IdOrgRelawan"
+            android:hint="Organisasi Relawan"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/JenisOrgRelawan"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/NamaOrgRelawan"
+            android:layout_alignStart="@+id/NamaOrgRelawan"
+            android:layout_marginStart="0dp"
+            android:hint="Jenis Organisasi Relawan"
+            android:textColor="#7F7F7F"
+            android:textSize="12sp" />
+
+        <TextView
+            android:id="@+id/lokasiOrgRelawan"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/JenisOrgRelawan"
+            android:layout_alignStart="@+id/JenisOrgRelawan"
+            android:layout_marginStart="0dp"
+            android:layout_marginEnd="16dp"
+            android:layout_marginBottom="16dp"
+            android:hint="Kelurahan"
+            android:textColor="#7F7F7F"
+            android:textSize="12sp" />
+
+    </RelativeLayout>
+
+</androidx.cardview.widget.CardView>

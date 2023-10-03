@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="orenmuda">#ffc93b</color>
+    <color name="oren">#FF7F00</color>
+    <color name="orendark">#ffa500</color>
+    <color name="orenmuda1">#e38e00</color>
+    <color name="orendark1">#d58300</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="selected_bg_color">#FFD6B2</color>
+</resources>

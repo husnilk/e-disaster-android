@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="8dp"
+    android:elevation="10dp"
+    app:cardBackgroundColor="@color/white"
+    app:cardCornerRadius="10dp">
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp">
+
+        <TextView
+            android:id="@+id/jenisBantuan"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_marginTop="6dp"
+            android:layout_marginEnd="6dp"
+            android:layout_toStartOf="@+id/tgl_diterima"
+            android:text="TextView"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/jumlahBantuan"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/jenisBantuan"
+            android:text="TextView"
+            android:textSize="12sp" />
+
+        <TextView
+            android:id="@+id/satuanBantuan"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/jumlahBantuan"
+            android:layout_marginStart="5dp"
+            android:layout_toEndOf="@+id/jumlahBantuan"
+            android:text="TextView"
+            android:textSize="12sp" />
+
+        <TextView
+            android:id="@+id/textView8"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/satuanBantuan"
+            android:text="dikirim oleh "
+            android:textColor="#7F7F7F"
+            android:textSize="11sp"
+            android:textStyle="italic" />
+
+        <TextView
+            android:id="@+id/pengirim"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/satuanBantuan"
+            android:layout_toEndOf="@+id/textView8"
+            android:hint="nama pengirim"
+            android:textColor="#7F7F7F"
+            android:textSize="11sp"
+            android:textStyle="italic" />
+
+        <TextView
+            android:id="@+id/tgl_diterima"
+            android:layout_width="70dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginTop="10dp"
+            android:text="TextView"
+            android:textAlignment="textEnd"
+            android:textColor="#7F7F7F"
+            android:textSize="10sp" />
+
+        <TextView
+            android:id="@+id/batchBantuan"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/tgl_diterima"
+            android:layout_alignEnd="@+id/tgl_diterima"
+            android:text="TextView"
+            android:textAlignment="viewEnd"
+            android:textColor="#7F7F7F"
+            android:textSize="10sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/batchBantuan"
+            android:layout_marginEnd="3sp"
+            android:layout_toStartOf="@+id/batchBantuan"
+            android:text="Batch ke -"
+            android:textAlignment="viewEnd"
+            android:textColor="#7F7F7F"
+            android:textSize="10sp"
+            tools:text="Batch ke -" />
+
+
+    </RelativeLayout>
+</androidx.cardview.widget.CardView>

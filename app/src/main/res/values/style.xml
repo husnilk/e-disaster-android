@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--    <style name="mytoast">-->
+<!--        <item name="stTextBold">true</item>-->
+<!--        <item name="stTextColor">#fff</item>-->
+<!--        <item name="stFont">@font/poppins</item>-->
+<!--        <item name="stTextSize">14sp</item>-->
+<!--        <item name="stColorBackground">#fff</item>-->
+<!--        <item name="stSolidBackground">true</item>-->
+<!--        <item name="stStrokeWidth">3dp</item>-->
+<!--        <item name="stStrokeColor">#fff</item>-->
+<!--&lt;!&ndash;        <item name="stIconStart">@drawable/ic</item>&ndash;&gt;-->
+<!--&lt;!&ndash;        <item name="stIconEnd">@drawable/ic</item>&ndash;&gt;-->
+<!--        <item name="stLength">LONG</item> LONG or SHORT-->
+<!--        <item name="stGravity">top</item> top or center-->
+<!--        <item name="stRadius">5dp</item>-->
+<!--    </style>-->
+
+    <style name="info">
+        <item name="stColorBackground">#99CCFF</item>
+        <item name="stTextColor">#0066CC</item>
+        <item name="stIconStart">@drawable/ic_baseline_info_24</item>
+    </style>
+
+    <style name="normal">
+        <item name="stColorBackground">#FFCC99</item>
+        <item name="stTextColor">@color/oren</item>
+    </style>
+
+    <style name="error">
+        <item name="stColorBackground">#FF9999</item>
+        <item name="stTextColor">#CC0000</item>
+        <item name="stIconStart">@drawable/ic_baseline_error_outline_24</item>
+    </style>
+
+    <style name="success">
+        <item name="stColorBackground">#99FF99</item>
+        <item name="stTextColor">#006600</item>
+        <item name="stIconStart">@drawable/ic_baseline_check2_circle_24</item>
+    </style>
+
+</resources>

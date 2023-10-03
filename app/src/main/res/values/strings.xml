@@ -1,0 +1,147 @@
+<resources>
+    <string name="app_name">disaster</string>
+    <string name="sign_in_to">Sign In to</string>
+    <string name="add">Tambah Laporan</string>
+    <string name="penyebab">Penyebab</string>
+    <string name="upaya">Upaya yang Dilakukan</string>
+    <string name="cuaca">Kondisi Cuaca</string>
+    <string name="potensi_bencana">Potensi Bencana</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="cakupan">Cakupan Dampak</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="API_KEY">AIzaSyBoSBcolS4deBktOzjZBYnIDb8aQwbspNY</string>
+    <string name="lokasi_saya">Lokasi saya</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="jenis_bencana">Jenis Bencana</string>
+    <string name="tombol_kembali">kembali</string>
+    <string name="tombol_next">NEXT</string>
+    <string name="tombol_add">Tambah</string>
+    <string name="tanggal_kejadian">Tanggal Kejadian</string>
+    <string name="waktu_kejadian">Waktu Kejadian</string>
+    <string name="kelurahan">Kelurahan</string>
+    <string name="bidang_kerusakan">Bidang Kerusakan</string>
+    <string name="jenis_kerusakan">Jenis Kerusakan</string>
+    <string name="jumlah_kerusakan">Jumlah Kerusakan</string>
+    <string name="satuan">Satuan</string>
+    <string name="status_korban">Status Korban</string>
+    <string name="status_medis">Status Medis</string>
+    <string name="tambah_korban">Tambah Korban</string>
+    <string name="detail_lokasi">Detail Lokasi</string>
+    <string name="rusak_berat">Rusak Berat</string>
+    <string name="rusak_ringan">Rusak Ringan</string>
+    <string name="rusak_sedang">Rusak Sedang</string>
+    <string name="sda_diperlukan">Jumlah Diperlukan</string>
+    <string name="sda_kekurangan">Jumlah Kekurangan</string>
+    <string name="sda_tersedia">Jumlah Tersedia</string>
+    <string name="jml_tersedia">Tersedia</string>
+    <string name="jml_kekurangan">Kekurangan</string>
+    <string name="pengirim_bantuan">Pengirim Bantuan</string>
+    <string name="jenis_bantuan">Jenis Bantuan</string>
+    <string name="jml">Jumlah</string>
+    <string name="pilih_satuan">Pilih Satuan</string>
+    <string name="pilih_bdg_kerusakan">Pilih Bidang Kerusakan</string>
+    <string name="pilih_jenis_bencana">Pilih Jenis Bencana</string>
+    <string name="Terdampak">Terdampak</string>
+    <string name="Korban">Korban</string>
+    <string name="pilih_status_medis">Pilih Status Medis</string>
+    <string name="pilih_status_korban">Pilih Status Korban</string>
+    <string name="lokasi_hilang">Lokasi Hilang</string>
+    <string name="pilih_sumberdaya">Pilih Sumber daya</string>
+    <string name="kode_lokasi">Kode Lokasi</string>
+    <string name="alamat">Alamat</string>
+    <string name="kapasitas">Kapasitas</string>
+    <string name="pilih_jenis_hunian">Pilih Jenis Hunian</string>
+    <string name="jenis_hunian">Jenis Hunian</string>
+    <string name="NIK">NIK</string>
+    <string name="nama_penduduk">Nama</string>
+    <string name="ahli_waris">Ahli Waris</string>
+    <string name="tgl_lahir">Tanggal Lahir</string>
+    <string name="latlong_kejadian">Titik Koordinat</string>
+    <string name="lok_kejadian">Lokasi Kejadian</string>
+    <string name="pilih_kondisi_cuaca">Pilih Kondisi Cuaca</string>
+    <string name="kondisi_cuaca">Kondisi Cuaca</string>
+    <string name="sumber_bantuan">Sumber Bantuan</string>
+    <string name="bantuan_tersalurkan">Bantuan Tersalurkan</string>
+    <string name="pilih_jenis_bantuan">Pilih Jenis Bantuan</string>
+    <string name="koordinat">Loc Bencana</string>
+
+    <string-array name="satuan">
+        <item>Lembar</item>
+        <item>Unit</item>
+        <item>Paket</item>
+        <item>Kotak</item>
+        <item>Kg</item>
+        <item>Lainnya</item>
+    </string-array>
+
+    <string-array name="status_korban">
+        <item>Meninggal</item>
+        <item>Hilang</item>
+        <item>Luka Ringan</item>
+        <item>Luka Berat</item>
+    </string-array>
+
+    <string-array name="status_medis">
+        <item>Dirawat</item>
+        <item>Dirujuk</item>
+    </string-array>
+
+    <string-array name="sumber_daya">
+        <item>1</item>
+        <item>2</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+    </string-array>
+
+    <string-array name="jenis_hunian">
+        <item>Tenda Darurat</item>
+        <item>Barak</item>
+        <item>Balai Desa</item>
+        <item>Sekolah</item>
+        <item>Rumah Ibadah</item>
+        <item>Lainnya</item>
+    </string-array>
+
+    <string name="name_lokasi">Nama Tempat</string>
+    <string name="recipient">Penerima</string>
+    <string name="tanggal_diterima">Tanggal Diterima</string>
+    <string name="jenis_kelamin">Jenis Kelamin</string>
+    <string name="perempuan">Perempuan</string>
+    <string name="lakilaki">Laki-laki</string>
+    <string name="title_activity_tes">tesActivity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="pada_kode">"pada kejadian "</string>
+    <string name="all_lok_pengungsi">"Daftar Semua Lokasi Pengungsian"</string>
+    <string name="keterangan">Keterangan(*nama rs, lokasi hilang)</string>
+    <string name="daftar_kerusakan">Daftar Kerusakan</string>
+    <string name="daftar_korban">Daftar Korban</string>
+    <string name="daftar_pengungsi">Daftar Pengungsi</string>
+    <string name="daftar_relawan">Daftar Relawan</string>
+    <string name="daftar_terdampak">Daftar Masyarakat Terdampak</string>
+    <string name="daftar_bantuant">Daftar Bantuan Tersalurkan</string>
+    <string name="daftar_sd">Daftar Sumber Daya</string>
+    <string name="daftar_sumber_bantuan">Daftar Sumber Bantuan</string>
+    <string name="batch">Kloter ke</string>
+    <string name="descFacilities">Deskripsi</string>
+    <string name="facilitiesCategory">Kategori Fasilitas</string>
+    <string name="pilih_fasilitas_kategori">Pilih Fasilitas Kategori</string>
+    <string name="daftar_fasilitas">Daftar Fasilitas</string>
+    <string name="daftar_organisasi_relawan">Daftar Organisasi Relawan</string>
+    <string name="skill_relawan">Skill</string>
+    <string name="id_relawan">ID Relawan</string>
+    <string name="placement">Penempatan</string>
+    <string name="tugas_relawan">Tugas</string>
+    <string name="id_volunteer_org">ID Organisasi</string>
+    <string name="nameVolunteerOrg">Nama Organisasi</string>
+    <string name="jenis_org">Jenis Organisasi</string>
+    <string name="tombol_edit">EDIT</string>
+    <string name="pilih_jenis_org">Pilih Jenis Organisasi</string>
+    <string name="detail_kerusakan">Detail Kerusakan</string>
+    <string name="waktu_perkembangan">Waktu Perkembangan Kejadian</string>
+    <string name="tanggal_perkembangan">Tanggal Perkembangan Kejadian</string>
+
+</resources>

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/PelaporanBencana/app/src/main/res/drawable/animation.xml" value="0.1" />
+        <entry key="..\:/PelaporanBencana/app/src/main/res/drawable/bg_button.xml" value="0.136" />
+        <entry key="..\:/PelaporanBencana/app/src/main/res/drawable/bg_button2.xml" value="0.1615" />
+        <entry key="..\:/PelaporanBencana/app/src/main/res/drawable/bg_input.xml" value="0.2275" />
+        <entry key="..\:/PelaporanBencana/app/src/main/res/drawable/bg_oren.xml" value="0.1" />
+        <entry key="..\:/PelaporanBencana/app/src/main/res/drawable/bg_oren2.xml" value="0.1" />
+        <entry key="..\:/PelaporanBencana/app/src/main/res/drawable/bg_oren3.xml" value="0.151" />
+        <entry key="..\:/PelaporanBencana/app/src/main/res/drawable/bg_purple.xml" value="0.1555" />
+        <entry key="..\:/PelaporanBencana/app/src/main/res/drawable/bg_purple2.xml" value="0.1715" />
+        <entry key="..\:/PelaporanBencana/app/src/main/res/drawable/bg_stroke_oren.xml" value="0.1615" />
+        <entry key="..\:/PelaporanBencana/app/src/main/res/drawable/bg_white.xml" value="0.1555" />
+        <entry key="..\:/PelaporanBencana/app/src/main/res/drawable/bg_white2.xml" value="0.1715" />
+        <entry key="..\:/PelaporanBencana/app/src/main/res/drawable/bg_white30.xml" value="0.1" />
+        <entry key="..\:/PelaporanBencana/app/src/main/res/drawable/oval.xml" value="0.1715" />
+        <entry key="..\:/PelaporanBencana/app/src/main/res/drawable/panel1.xml" value="0.1715" />
+        <entry key="..\:/PelaporanBencana/app/src/main/res/drawable/selected_bg.xml" value="0.136" />
+        <entry key="..\:/PelaporanBencana/app/src/main/res/drawable/shape.xml" value="0.1555" />
+        <entry key="..\:/PelaporanBencana/app/src/main/res/drawable/stgnh_lingkaran.xml" value="0.136" />
+        <entry key="..\:/PelaporanBencana/app/src/main/res/font/retrofont.xml" value="0.19079780498100465" />
+        <entry key="..\:/PelaporanBencana/app/src/main/res/layout/activity_bantuan.xml" value="0.22" />
+        <entry key="..\:/PelaporanBencana/app/src/main/res/layout/activity_bantuan_forms.xml" value="0.2" />
+        <entry key="..\:/PelaporanBencana/app/src/main/res/layout/activity_bantuan_tersalurkan.xml" value="0.33" />
+        <entry key="..\:/PelaporanBencana/app/src/main/res/layout/activity_bantuan_tersalurkan_edit_forms.xml" value="0.1" />
+        <entry key="..\:/PelaporanBencana/app/src/main/res/layout/activity_bantuan_tersalurkan_forms.xml" value="0.33" />
+        <entry key="..\:/PelaporanBencana/app/src/main/res/layout/activity_camera.xml" value="0.33" />
+        <entry key="..\:/PelaporanBencana/app/src/main/res/layout/activity_cek_lokasi.xml" value="0.25" />
+        <entry key="..\:/PelaporanBencana/app/src/main/res/layout/activity_det_kejadian.xml" value="0.25" />
+        <entry key="..\:/PelaporanBencana/app/src/main/res/layout/activity_detail_kejadian.xml" value="0.25" />
+        <entry key="..\:/PelaporanBencana/app/src/main/res/layout/activity_fasilitas.xml" value="0.33" />
+        <entry key="..\:/PelaporanBencana/app/src/main/res/layout/activity_fasilitas_edit_forms.xml" value="0.33" />
+        <entry key="..\:/PelaporanBencana/app/src/main/res/layout/activity_fasilitas_forms.xml" value="0.33" />
+        <entry key="..\:/PelaporanBencana/app/src/main/res/layout/activity_home.xml" value="0.33" />
+        <entry key="..\:/PelaporanBencana/app/src/main/res/layout/activity_kejadian_edit_forms1.xml" value="0.25" />
+        <entry key="..\:/PelaporanBencana/app/src/main/res/layout/activity_kejadian_edit_forms2.xml" value="0.15904232578024796" />
+        <entry key="..\:/PelaporanBencana/app/src/main/res/layout/activity_kejadian_form.xml" value="0.25" />
+        <entry key="..\:/PelaporanBencana/app/src/main/res/layout/activity_kejadian_forms.xml" value="0.22" />
+        <entry key="..\:/PelaporanBencana/app/src/main/res/layout/activity_kejadian_forms1.xml" value="0.33" />
+        <entry key="..\:/PelaporanBencana/app/src/main/res/layout/activity_kejadian_forms2.xml" value="0.16" />
+        <entry key="..\:/PelaporanBencana/app/src/main/res/layout/activity_kejadian_perkembangan_forms.xml" value="0.25" />
+        <entry key="..\:/PelaporanBencana/app/src/main/res/layout/activity_kerusakan.xml" value="0.33" />
+        <entry key="..\:/PelaporanBencana/app/src/main/res/layout/activity_kerusakan2_forms.xml" value="0.5" />
+        <entry key="..\:/PelaporanBencana/app/src/main/res/layout/activity_kerusakan_forms.xml" value="0.11673151750972763" />
+        <entry key="..\:/PelaporanBencana/app/src/main/res/layout/activity_kerusakan_forms_edit.xml" value="0.33" />
+        <entry key="..\:/PelaporanBencana/app/src/main/res/layout/activity_koordinat_kejadian.xml" value="0.18" />
+        <entry key="..\:/PelaporanBencana/app/src/main/res/layout/activity_koordinat_kejadian_edit.xml" value="0.33" />
+        <entry key="..\:/PelaporanBencana/app/src/main/res/layout/activity_koordinat_kejadiann.xml" value="0.1718683197947841" />
+        <entry key="..\:/PelaporanBencana/app/src/main/res/layout/activity_koordinat_lokasi_pengungsi.xml" value="0.33" />
+        <entry key="..\:/PelaporanBencana/app/src/main/res/layout/activity_korban.xml" value="0.22" />
+        <entry key="..\:/PelaporanBencana/app/src/main/res/layout/activity_korban_forms.xml" value="0.25" />
+        <entry key="..\:/PelaporanBencana/app/src/main/res/layout/activity_korban_forms1.xml" value="0.2" />
+        <entry key="..\:/PelaporanBencana/app/src/main/res/layout/activity_korban_forms1_edit.xml" value="0.33" />
+        <entry key="..\:/PelaporanBencana/app/src/main/res/layout/activity_korban_forms2.xml" value="0.36210526315789476" />
+        <entry key="..\:/PelaporanBencana/app/src/main/res/layout/activity_korban_forms2_edit.xml" value="0.33" />
+        <entry key="..\:/PelaporanBencana/app/src/main/res/layout/activity_korban_forms_edit.xml" value="0.22" />
+        <entry key="..\:/PelaporanBencana/app/src/main/res/layout/activity_korban_forms_sqlite.xml" value="0.33" />
+        <entry key="..\:/PelaporanBencana/app/src/main/res/layout/activity_list_korban.xml" value="0.18127404873877725" />
+        <entry key="..\:/PelaporanBencana/app/src/main/res/layout/activity_lokasi_bencana.xml" value="0.18127404873877725" />
+        <entry key="..\:/PelaporanBencana/app/src/main/res/layout/activity_lokasi_pengungsi.xml" value="0.3799421407907425" />
+        <entry key="..\:/PelaporanBencana/app/src/main/res/layout/activity_lokasi_pengungsi_all.xml" value="0.25" />
+        <entry key="..\:/PelaporanBencana/app/src/main/res/layout/activity_lokasi_pengungsi_forms.xml" value="0.25" />
+        <entry key="..\:/PelaporanBencana/app/src/main/res/layout/activity_lokasi_pengungsi_forms_edit.xml" value="0.13125267208208635" />
+        <entry key="..\:/PelaporanBencana/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/PelaporanBencana/app/src/main/res/layout/activity_main2.xml" value="0.18127404873877725" />
+        <entry key="..\:/PelaporanBencana/app/src/main/res/layout/activity_maps.xml" value="0.18127404873877725" />
+        <entry key="..\:/PelaporanBencana/app/src/main/res/layout/activity_menu.xml" value="0.22" />
+        <entry key="..\:/PelaporanBencana/app/src/main/res/layout/activity_menus.xml" value="0.45539906103286387" />
+        <entry key="..\:/PelaporanBencana/app/src/main/res/layout/activity_penduduk.xml" value="0.33" />
+        <entry key="..\:/PelaporanBencana/app/src/main/res/layout/activity_penduduk_forms.xml" value="0.33" />
+        <entry key="..\:/PelaporanBencana/app/src/main/res/layout/activity_penduduk_forms_edit.xml" value="0.33" />
+        <entry key="..\:/PelaporanBencana/app/src/main/res/layout/activity_pengungsi.xml" value="0.33" />
+        <entry key="..\:/PelaporanBencana/app/src/main/res/layout/activity_pengungsi_forms.xml" value="0.18127404873877725" />
+        <entry key="..\:/PelaporanBencana/app/src/main/res/layout/activity_pengungsis_forms.xml" value="0.1" />
+        <entry key="..\:/PelaporanBencana/app/src/main/res/layout/activity_relawan.xml" value="0.12997007268063274" />
+        <entry key="..\:/PelaporanBencana/app/src/main/res/layout/activity_relawan_edit_forms.xml" value="0.15348439504061565" />
+        <entry key="..\:/PelaporanBencana/app/src/main/res/layout/activity_relawan_forms.xml" value="0.22" />
+        <entry key="..\:/PelaporanBencana/app/src/main/res/layout/activity_relawan_forms2.xml" value="0.25" />
+        <entry key="..\:/PelaporanBencana/app/src/main/res/layout/activity_rincian_kegiatan.xml" value="0.25" />
+        <entry key="..\:/PelaporanBencana/app/src/main/res/layout/activity_sum_daya_edit_forms.xml" value="0.25" />
+        <entry key="..\:/PelaporanBencana/app/src/main/res/layout/activity_sum_daya_forms.xml" value="0.33" />
+        <entry key="..\:/PelaporanBencana/app/src/main/res/layout/activity_sumber_bantuan.xml" value="0.16844805472424113" />
+        <entry key="..\:/PelaporanBencana/app/src/main/res/layout/activity_sumber_bantuan_edit_forms.xml" value="0.22" />
+        <entry key="..\:/PelaporanBencana/app/src/main/res/layout/activity_sumber_bantuan_forms.xml" value="0.33" />
+        <entry key="..\:/PelaporanBencana/app/src/main/res/layout/activity_sumber_daya.xml" value="0.178978471929084" />
+        <entry key="..\:/PelaporanBencana/app/src/main/res/layout/activity_terdampak.xml" value="0.33" />
+        <entry key="..\:/PelaporanBencana/app/src/main/res/layout/activity_terdampak_forms.xml" value="0.33" />
+        <entry key="..\:/PelaporanBencana/app/src/main/res/layout/activity_tes.xml" value="0.1" />
+        <entry key="..\:/PelaporanBencana/app/src/main/res/layout/activity_volunteer_org.xml" value="0.1" />
+        <entry key="..\:/PelaporanBencana/app/src/main/res/layout/activity_volunteer_org_edit_forms.xml" value="0.9" />
+        <entry key="..\:/PelaporanBencana/app/src/main/res/layout/activity_volunteer_org_forms.xml" value="0.4382647385984427" />
+        <entry key="..\:/PelaporanBencana/app/src/main/res/layout/bantuan_list_item.xml" value="0.67" />
+        <entry key="..\:/PelaporanBencana/app/src/main/res/layout/bantuant_list_item.xml" value="0.5" />
+        <entry key="..\:/PelaporanBencana/app/src/main/res/layout/detail_kejadian_list_item.xml" value="0.18127404873877725" />
+        <entry key="..\:/PelaporanBencana/app/src/main/res/layout/fasilitas_list_items.xml" value="0.33" />
+        <entry key="..\:/PelaporanBencana/app/src/main/res/layout/fragment_tes.xml" value="0.33" />
+        <entry key="..\:/PelaporanBencana/app/src/main/res/layout/home_list_item.xml" value="0.3084370677731674" />
+        <entry key="..\:/PelaporanBencana/app/src/main/res/layout/kerusakan_kategori_list_item.xml" value="0.5" />
+        <entry key="..\:/PelaporanBencana/app/src/main/res/layout/kerusakan_list_item.xml" value="0.2210796915167095" />
+        <entry key="..\:/PelaporanBencana/app/src/main/res/layout/korban_list_item.xml" value="0.25" />
+        <entry key="..\:/PelaporanBencana/app/src/main/res/layout/layout_bawah.xml" value="0.22" />
+        <entry key="..\:/PelaporanBencana/app/src/main/res/layout/list_jenis_bencana.xml" value="0.18127404873877725" />
+        <entry key="..\:/PelaporanBencana/app/src/main/res/layout/lok_pengungsian_all_list_item.xml" value="0.33" />
+        <entry key="..\:/PelaporanBencana/app/src/main/res/layout/lok_semua_pengungsian_list_item.xml" value="0.16844805472424113" />
+        <entry key="..\:/PelaporanBencana/app/src/main/res/layout/lokasi_bencana_list_item.xml" value="0.2" />
+        <entry key="..\:/PelaporanBencana/app/src/main/res/layout/lokasi_pengungsian_list_item.xml" value="0.33" />
+        <entry key="..\:/PelaporanBencana/app/src/main/res/layout/network_security_config.xml" value="0.10303548525010689" />
+        <entry key="..\:/PelaporanBencana/app/src/main/res/layout/penduduk_list_item.xml" value="0.22" />
+        <entry key="..\:/PelaporanBencana/app/src/main/res/layout/penduduk_status_list_item.xml" value="0.33" />
+        <entry key="..\:/PelaporanBencana/app/src/main/res/layout/pengungsi_list_item.xml" value="0.5" />
+        <entry key="..\:/PelaporanBencana/app/src/main/res/layout/perkembangan_disasters_list_items.xml" value="0.33" />
+        <entry key="..\:/PelaporanBencana/app/src/main/res/layout/pictures_list_items.xml" value="0.1718683197947841" />
+        <entry key="..\:/PelaporanBencana/app/src/main/res/layout/relawan_list_item.xml" value="0.25" />
+        <entry key="..\:/PelaporanBencana/app/src/main/res/layout/relawan_list_items.xml" value="0.16844805472424113" />
+        <entry key="..\:/PelaporanBencana/app/src/main/res/layout/satuan_list_item.xml" value="0.18127404873877725" />
+        <entry key="..\:/PelaporanBencana/app/src/main/res/layout/sumberdaya_list_item.xml" value="0.67" />
+        <entry key="..\:/PelaporanBencana/app/src/main/res/layout/volunteer_org_list_item.xml" value="0.33" />
+        <entry key="..\:/PelaporanBencana/app/src/main/res/menu/menu_main.xml" value="0.18127404873877725" />
+        <entry key="..\:/PelaporanBencana/app/src/main/res/menu/menu_notif.xml" value="0.22" />
+        <entry key="..\:/PelaporanBencana/app/src/main/res/xml/network_security_config.xml" value="0.5578703703703703" />
+        <entry key="..\:/PelaporanBencana/app/src/main/res/xml/provider_path.xml" value="0.18127404873877725" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

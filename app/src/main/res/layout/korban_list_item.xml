@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="8dp"
+    android:elevation="10dp"
+    app:cardBackgroundColor="@color/white"
+    app:cardCornerRadius="10dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="10dp">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:id="@+id/layoutImage"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/bg_button"
+            android:padding="5dp"
+            android:layout_centerVertical="true">
+
+            <ImageView
+                android:layout_width="63dp"
+                android:layout_height="63dp"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:srcCompat="@drawable/man" />
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+        <TextView
+            android:id="@+id/namaPenduduk"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/layoutImage"
+            android:layout_alignParentEnd="true"
+            android:layout_marginStart="10dp"
+            android:layout_toEndOf="@+id/layoutImage"
+            android:fontFamily="@font/poppins"
+            android:text="TextView"
+            android:hint="Nama"
+            android:textAllCaps="true"
+            android:textSize="14sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/nikPenduduk"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/namaPenduduk"
+            android:layout_alignStart="@+id/namaPenduduk"
+            android:layout_marginStart="0dp"
+            android:text="TextView"
+            android:hint="NIK"
+            android:textColor="@color/black" />
+
+        <TextView
+            android:id="@+id/usiaPenduduk"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/nikPenduduk"
+            android:layout_alignStart="@+id/nikPenduduk"
+            android:layout_marginStart="0dp"
+            android:layout_marginBottom="0dp"
+            android:hint="0"
+            android:text="TextView" />
+
+        <TextView
+            android:id="@+id/textView12"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/nikPenduduk"
+            android:layout_marginStart="4dp"
+            android:layout_toEndOf="@+id/usiaPenduduk"
+            android:text="Tahun" />
+
+        <TextView
+            android:id="@+id/statusKorban"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/usiaPenduduk"
+            android:layout_alignStart="@+id/usiaPenduduk"
+            android:layout_marginTop="0dp"
+            android:hint="status"
+            android:textColor="@color/oren" />
+
+        <ImageView
+            android:id="@+id/jkPenduduk"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_alignTop="@+id/textView12"
+            android:layout_marginStart="6dp"
+            android:layout_marginTop="0dp"
+            android:layout_toEndOf="@+id/textView12"
+            android:visibility="visible"
+            app:srcCompat="@android:drawable/ic_menu_gallery" />
+
+
+    </RelativeLayout>
+
+</androidx.cardview.widget.CardView>

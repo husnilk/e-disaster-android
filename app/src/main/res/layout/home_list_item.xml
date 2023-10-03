@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="8dp"
+    app:cardBackgroundColor="@color/white"
+    app:cardCornerRadius="10dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingStart="16dp"
+        android:paddingEnd="16dp">
+
+        <ImageView
+            android:id="@+id/imageBencana"
+            android:layout_width="match_parent"
+            android:layout_height="197dp"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="8dp"
+            app:srcCompat="@drawable/dance" />
+
+        <TextView
+            android:id="@+id/kodeKejadian"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/imageBencana"
+            android:layout_alignParentStart="true"
+            android:layout_marginTop="10dp"
+            android:text="TextView"
+            android:textSize="12sp"
+            android:textColor="@color/oren"/>
+
+        <TextView
+            android:id="@+id/namaKejadian"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/kodeKejadian"
+            android:layout_alignStart="@+id/kodeKejadian"
+            android:layout_marginEnd="16dp"
+            android:fontFamily="@font/poppins"
+            android:text="TextView"
+            android:textColor="@color/black"
+            android:textSize="16sp"
+            android:layout_marginBottom="2dp"/>
+
+        <TextView
+            android:id="@+id/lokasiKejadian"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/namaKejadian"
+            android:layout_alignStart="@+id/namaKejadian"
+            android:layout_marginStart="0dp"
+            android:layout_marginTop="0dp"
+            android:layout_marginEnd="3dp"
+            android:layout_marginBottom="8dp"
+            android:fontFamily="@font/poppins"
+            android:text="TextView"
+            android:textColor="#7F7F7F"
+            android:textSize="12sp" />
+
+        <TextView
+            android:id="@+id/tglKejadian"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/kodeKejadian"
+            android:layout_alignParentEnd="true"
+            android:layout_marginBottom="8dp"
+            android:fontFamily="@font/poppins"
+            android:text="TextView"
+            android:textColor="#7F7F7F"
+            android:textSize="12sp" />
+
+        <TextView
+            android:id="@+id/waktuKej"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/tglKejadian"
+            android:layout_marginEnd="6dp"
+            android:layout_toStartOf="@+id/tglKejadian"
+            android:text="TextView"
+            android:textColor="#7F7F7F"
+            android:textSize="12sp" />
+
+
+    </RelativeLayout>
+
+</androidx.cardview.widget.CardView>
